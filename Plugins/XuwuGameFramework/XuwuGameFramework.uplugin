@@ -15,11 +15,6 @@
 	"Installed": false,
 	"Modules": [
 		{
-			"Name": "XuwuGameFramework",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		},
-		{
 			"Name": "XGF_AbilitySystem",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
