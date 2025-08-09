@@ -17,6 +17,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "XuwuGameFramework",
+			"Enabled": true
 		}
 	]
 }
