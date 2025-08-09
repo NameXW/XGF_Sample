@@ -28,6 +28,16 @@
 			"Name": "XGF_Inventory",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "XGF_GameUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "XGF_Interaction",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	]
 }
