@@ -23,6 +23,11 @@
 			"Name": "XGF_AbilitySystem",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "XGF_Inventory",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	]
 }
