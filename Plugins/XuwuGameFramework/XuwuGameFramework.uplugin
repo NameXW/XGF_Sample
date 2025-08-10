@@ -20,22 +20,37 @@
 			"LoadingPhase": "Default"
 		},
 		{
-			"Name": "XGF_Inventory",
+			"Name": "XGF_AISystem",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		},
 		{
-			"Name": "XGF_GameUI",
+			"Name": "XGF_UISystem",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		},
 		{
-			"Name": "XGF_Interaction",
+			"Name": "XGF_InventorySystem",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		},
 		{
-			"Name": "XGF_ModularActors",
+			"Name": "XGF_InteractionSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "XGF_InputSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "XGF_LocomotionSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "XGF_CombatSystem",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
@@ -47,14 +62,6 @@
 		},
 		{
 			"Name": "TargetingSystem",
-			"Enabled": true
-		},
-		{
-			"Name": "GameFeatures",
-			"Enabled": true
-		},
-		{
-			"Name": "ModularGameplay",
 			"Enabled": true
 		}
 	]
