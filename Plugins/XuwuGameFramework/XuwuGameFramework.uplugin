@@ -33,6 +33,11 @@
 			"Name": "XGF_Interaction",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "XGF_ModularActors",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
