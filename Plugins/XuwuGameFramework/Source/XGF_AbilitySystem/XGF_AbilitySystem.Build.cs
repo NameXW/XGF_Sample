@@ -10,6 +10,8 @@ public class XGF_AbilitySystem : ModuleRules
             new string[]
             {
                 "Core",
+                "GameplayAbilities", 
+                "GameplayTags",
             }
         );
 
