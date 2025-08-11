@@ -70,3 +70,6 @@ DerivedDataCache/*
 *.code-workspace
 
 *.ddargs.json
+
+
+Content/*
